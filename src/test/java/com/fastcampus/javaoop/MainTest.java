@@ -1,4 +1,4 @@
-package com.fastcampus;
+package com.fastcampus.javaoop;
 
 import com.fastcampus.javaoop.Main;
 import org.junit.jupiter.api.Test;
