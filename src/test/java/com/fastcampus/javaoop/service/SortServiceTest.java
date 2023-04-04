@@ -1,6 +1,6 @@
-package com.fastcampus.service;
+package com.fastcampus.javaoop.service;
 
-import com.fastcampus.logic.JavaSort;
+import com.fastcampus.javaoop.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SortServiceTest {
 
-    private SortService sort = new SortService(new JavaSort<>());
+    private com.fastcampus.javaoop.service.SortService sort = new com.fastcampus.javaoop.service.SortService(new JavaSort<>());
     @Test
     void doSort() {
         // Given

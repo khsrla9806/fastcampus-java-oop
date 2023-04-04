@@ -1,4 +1,4 @@
-package com.fastcampus.logic;
+package com.fastcampus.springapply.logic;
 
 import java.util.ArrayList;
 import java.util.Collections;
