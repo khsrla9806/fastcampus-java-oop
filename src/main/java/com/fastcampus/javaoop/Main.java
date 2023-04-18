@@ -12,5 +12,8 @@ public class Main {
         System.out.println("[result] " + sort.sort(Arrays.asList(args)));
         // 훈섭 코드 추가
         // 훈섭 코드 추가 2
+        // 테스트 코드 1
+        // 테스트 코드 2
+        // 테스트 코드 3
     }
 }
